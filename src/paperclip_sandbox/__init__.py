@@ -1,0 +1,1 @@
+"""Paperclip sandbox package."""
